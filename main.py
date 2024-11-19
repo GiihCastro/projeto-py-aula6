@@ -70,7 +70,7 @@ while True:
         | 1 - Encontrar tarefa por nome
         | 2 - Encontrar tarefa por prioridade
         | 3 - Encontrar tarefa por categoria
-        | 0 - Sair
+        | 0 - Retornar
                 Digite sua escolha => ''')
                 # Encontrar por nome
                 if menu == "1":
